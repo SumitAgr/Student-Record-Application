@@ -1,6 +1,8 @@
 # Student-Record-Application
 
-A Student Record GUI application created with Tkinter library in Python 3.
+A Student Record GUI application created with Tkinter library in Python 3. This is a small scale application that aims to help class teachers keep a record of their students. It includes student name, ID, major, age, sex, address and GPA. The user has the option to view all entries at a time while also searching for a student with just one piece of information.
+
+To add an entry, you just need one minimum piece of information to add the student into the database.
 
 # Screenshot:
 
